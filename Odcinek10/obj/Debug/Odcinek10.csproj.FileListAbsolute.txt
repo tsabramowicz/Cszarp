@@ -1,0 +1,7 @@
+C:\repos\CSharpKurs\Odcinek10\bin\Debug\Odcinek10.exe.config
+C:\repos\CSharpKurs\Odcinek10\bin\Debug\Odcinek10.exe
+C:\repos\CSharpKurs\Odcinek10\bin\Debug\Odcinek10.pdb
+C:\repos\CSharpKurs\Odcinek10\obj\Debug\Odcinek10.csprojAssemblyReference.cache
+C:\repos\CSharpKurs\Odcinek10\obj\Debug\Odcinek10.csproj.CoreCompileInputs.cache
+C:\repos\CSharpKurs\Odcinek10\obj\Debug\Odcinek10.exe
+C:\repos\CSharpKurs\Odcinek10\obj\Debug\Odcinek10.pdb

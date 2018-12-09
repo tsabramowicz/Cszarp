@@ -1,0 +1,14 @@
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\bin\Debug\hello.exe.config
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\bin\Debug\hello.exe
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\bin\Debug\hello.pdb
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\obj\Debug\hello.csprojAssemblyReference.cache
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\obj\Debug\hello.exe
+C:\Users\XP45FU\source\repos\udemy\CSharpKurs\hello\obj\Debug\hello.pdb
+C:\repos\CSharpKurs\hello\bin\Debug\hello.exe.config
+C:\repos\CSharpKurs\hello\bin\Debug\hello.exe
+C:\repos\CSharpKurs\hello\bin\Debug\hello.pdb
+C:\repos\CSharpKurs\hello\obj\Debug\hello.csprojAssemblyReference.cache
+C:\repos\CSharpKurs\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\repos\CSharpKurs\hello\obj\Debug\hello.exe
+C:\repos\CSharpKurs\hello\obj\Debug\hello.pdb

@@ -1,0 +1,7 @@
+C:\repos\CSharpKurs\StudentDiary\bin\Debug\StudentDiary.exe.config
+C:\repos\CSharpKurs\StudentDiary\bin\Debug\StudentDiary.exe
+C:\repos\CSharpKurs\StudentDiary\bin\Debug\StudentDiary.pdb
+C:\repos\CSharpKurs\StudentDiary\obj\Debug\StudentDiary.csproj.CoreCompileInputs.cache
+C:\repos\CSharpKurs\StudentDiary\obj\Debug\StudentDiary.exe
+C:\repos\CSharpKurs\StudentDiary\obj\Debug\StudentDiary.pdb
+C:\repos\CSharpKurs\StudentDiary\obj\Debug\StudentDiary.csprojAssemblyReference.cache
