@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace StudentDiary
+namespace _15TypyReferencyjne
 {
 	class Diary
 	{
@@ -26,11 +27,16 @@ namespace StudentDiary
 		public static float MaxGrade = 10;
 		public static long Count = 0;
 		public long Count2 = 0;
-		
+
+		public string Name;
+
 		// Zachowania
 		public void AddRating(float rating)
 		{
-			ratings.Add(rating);
+			if (rating >= 0 && rating <= 10)
+			{
+				ratings.Add(rating);
+			}
 		}
 
 		public DiaryStatistics ComputeStatistics()

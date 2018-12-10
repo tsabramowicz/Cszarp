@@ -1,0 +1,7 @@
+C:\repos\CSharpKurs\15TypyReferencyjne\obj\Debug\15TypyReferencyjne.csprojAssemblyReference.cache
+C:\repos\CSharpKurs\15TypyReferencyjne\obj\Debug\15TypyReferencyjne.csproj.CoreCompileInputs.cache
+C:\repos\CSharpKurs\15TypyReferencyjne\bin\Debug\15TypyReferencyjne.exe.config
+C:\repos\CSharpKurs\15TypyReferencyjne\bin\Debug\15TypyReferencyjne.exe
+C:\repos\CSharpKurs\15TypyReferencyjne\bin\Debug\15TypyReferencyjne.pdb
+C:\repos\CSharpKurs\15TypyReferencyjne\obj\Debug\15TypyReferencyjne.exe
+C:\repos\CSharpKurs\15TypyReferencyjne\obj\Debug\15TypyReferencyjne.pdb

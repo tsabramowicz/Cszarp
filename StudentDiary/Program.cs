@@ -14,7 +14,9 @@ namespace StudentDiary
 			diary.AddRating(8.5f);
 			diary.AddRating(4.7f);
 
-			Console.WriteLine(Diary.Maxgrade);
+			
+
+			Console.WriteLine(Diary.MaxGrade);
 
 			Diary diary2 = new Diary();
 			Diary diary3 = new Diary();
@@ -22,6 +24,8 @@ namespace StudentDiary
 			Diary diary5 = new Diary();
 			Diary diary6 = new Diary();
 
+			Console.WriteLine(Diary.MaxGrade);
+			
 			Console.WriteLine(Diary.Count);
 
 			Console.WriteLine(diary3.Count2);
